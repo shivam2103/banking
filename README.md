@@ -5,4 +5,4 @@
   * CRUD Operations
   * Exception Handler with Custom Exception
   * Swagger UI
-  * Liquibase Migration Implementation
+  * Liquibase Migration
